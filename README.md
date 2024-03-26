@@ -31,7 +31,7 @@ $ make unscramble
 $ ./unscramble --letters abcdefg --min-length 3
 Welcome to Word Unscrambler!
 Enter words of length 3 to 7 made from the letters "abcdefg"
-bag
+**bag**
 OK! Score so far is 3
 **Ctrl+D**
 Your final score is 3
